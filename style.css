@@ -73,8 +73,12 @@ form.example input[type=text] {
   .under-link{
     margin-left: 210px;
     align-content: inherit;
-    text-decoration: none;
+    
     text-align: justify;
+   
+.textdeco{
+    text-decoration: none;
+}
     
 
   }
