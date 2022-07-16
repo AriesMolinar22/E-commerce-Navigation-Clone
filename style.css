@@ -5,7 +5,7 @@
 }
 
 .container{
-    background-color: orange;
+    background-color: orangered;
     height: 500px;
     width: 100%;
     color: white;
@@ -39,13 +39,48 @@ ul {
 img{
     padding-left: 60px;
     width: 150px;
+    height: 45px;
 }
 input{
-    width: 75%;
+    width: 60%;
     vertical-align: top;
     height: 20px
 }
 .fa-solid fa-magnifying-glass{
     display: inline;
 }
+form.example button {
+    float: left;
+    width: 20%;
+    padding: 10px;
+    background: orangered;
+    color: white;
+    font-size: 17px;
+    border: 1px solid grey;
+    border-left: none;
+    cursor: pointer;
+}
+form.example input[type=text] {
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 80%;
+    height: 40px;
+    background: #f1f1f1;
+    display: inline-block;
+  }
+  .under-link{
+    margin-left: 210px;
+    align-content: inherit;
+    text-decoration: none;
+    text-align: justify;
+    
 
+  }
+  .white{
+    color: white;
+  }
+.fa-brands fa-shopware{
+    margin-left: 500px;
+}
